@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Luxury（feat. ROTZZZ）",
+  "base_artist": "KVGGLV",
+  "createdAt": "2026-02-20T15:30:53.941838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lollipop Luxury [feat. Nicki Minaj]",
+      "artist": "Jeffree Star",
+      "has_synced": false,
+      "path": "select/01_Lollipop_Luxury_[feat._Nicki_Minaj]_Jeffree_Star.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luxury (feat. Audra Mae)",
+      "artist": "Jon Bellion",
+      "has_synced": true,
+      "path": "select/02_Luxury_(feat._Audra_Mae)_Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Luxury (feat. Westside Gunn)",
+      "artist": "Skyzoo",
+      "has_synced": false,
+      "path": "select/03_Luxury_(feat._Westside_Gunn)_Skyzoo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lap of Luxury (feat. Qur'an Shaheed & Kintaró)",
+      "artist": "The Koreatown Oddity",
+      "has_synced": false,
+      "path": "select/04_Lap_of_Luxury_(feat._Qur'an_Shaheed_&_Kintaró)_The_Koreatown_Oddity.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Luxury (Feat. Westside Gunn) [Prod. By Skyzoo & iLLMind]",
+      "artist": "Skyzoo",
+      "has_synced": false,
+      "path": "select/05_Luxury_(Feat._Westside_Gunn)_[Prod._By_Skyzoo_&_iLLMind]_Skyzoo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Loud Luxury feat. Brando - Body (Official Music Video)",
+      "artist": "TMRW Music",
+      "has_synced": true,
+      "path": "select/06_Loud_Luxury_feat._Brando_-_Body_(Official_Music_Video)_TMRW_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Miss Luxury feat. MACCHO, GIPPER, KOZ, HI-D, Foxxi misQ -P.V. Version-",
+      "artist": "DJ PMX",
+      "has_synced": false,
+      "path": "select/07_Miss_Luxury_feat._MACCHO,_GIPPER,_KOZ,_HI-D,_Foxxi_misQ_-P.V._Version-_DJ_PMX.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Luxury (feat. Haaezii, Rap Demon & Talha Anjum)",
+      "artist": "Umair;Haaezii;Rap Demon;Talha Anjum",
+      "has_synced": true,
+      "path": "select/08_No_Luxury_(feat._Haaezii,_Rap_Demon_&_Talha_Anjum)_Umair;Haaezii;Rap_Demon;Talha_Anjum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Luxury (Feat. Westside Gunn) [Prod. By Skyzoo & iLLMind]",
+      "artist": "Westside Gunn",
+      "has_synced": false,
+      "path": "select/09_Luxury_(Feat._Westside_Gunn)_[Prod._By_Skyzoo_&_iLLMind]_Westside_Gunn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vintage Luxury (feat. Premo Rice)",
+      "artist": "Curren$y",
+      "has_synced": false,
+      "path": "select/10_Vintage_Luxury_(feat._Premo_Rice)_Curren$y.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Luxury (feat. Westside Gunn)",
+      "artist": "Westside Gunn",
+      "has_synced": false,
+      "path": "select/11_Luxury_(feat._Westside_Gunn)_Westside_Gunn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lollipop Luxury (feat. Nicki Minaj)",
+      "artist": "Jeffree Star - Topic",
+      "has_synced": true,
+      "path": "select/12_Lollipop_Luxury_(feat._Nicki_Minaj)_Jeffree_Star_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Miss Luxury feat. HI-D, GIPPER",
+      "artist": "DJ PMX",
+      "has_synced": false,
+      "path": "select/13_Miss_Luxury_feat._HI-D,_GIPPER_DJ_PMX.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lollipop Luxury Feat Minaj Bonus",
+      "artist": "Jeffree Star",
+      "has_synced": true,
+      "path": "select/14_Lollipop_Luxury_Feat_Minaj_Bonus_Jeffree_Star.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Luxury (feat. ROTZZZ)",
+      "artist": "KVGGLV",
+      "has_synced": false,
+      "path": "select/pl_01_Luxury_(feat._ROTZZZ)_KVGGLV.txt"
+    }
+  ]
+}
